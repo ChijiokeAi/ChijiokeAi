@@ -6,7 +6,7 @@
 - Github projects: Hands-on labs and cyersecurity  projects
 
 ## Certification
-- Cisco Introduction to Cybersecurity
+- [Cisco Introduction to Cybersecurity](Introduction_to_Cybersecurity_certificate_chijioketobias7-gmail-com_1cd4bdb9-7f4f-4229-9fdd-7afbd334eba7.pdf)
 
 ## Projects
 - [Cybersecurity Labs] (https://github.com/ChijiokeAi/Cybersecurity-projects)

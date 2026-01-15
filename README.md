@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Chijioke Tobias
 
-<!--
-**ChijiokeAi/ChijiokeAi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Aspiring Cybersecurity Professional
+- Skills: Resources Specilaist | Network Defense | System safeguards | Threat Analysis | Cybersecurity Administration
+- Learning: Networking fundamentals, Cisco packet tracer, cybersecurity labs, Ethical hacking
+- Github projects: Hands-on labs and cyersecurity  projects
 
-Here are some ideas to get you started:
+## Certification
+- Cisco Introduction to Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Cybersecurity Labs] (https://github.com/ChijiokeAi/Cybersecurity-projects)
+- Netwoking Simulation with packet tracer
+
+## About me
+I'm passionate about learning networking,ethical hacking and cybersecurity. I document my learning and share projects on Github to grow my skills and contribute to the community.

@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Chijioke Tobias
 
 - Aspiring Cybersecurity Professional
-- Skills: Resources Specilaist | Network Defense | System safeguards | Threat Analysis | Cybersecurity Administration
-- Learning: Networking fundamentals, Cisco packet tracer, cybersecurity labs, Ethical hacking
+- Skills: Resources Specilaist | Network Defense | System safeguards | Threat Analysis | AI data annotator 
+- Learning: Networking fundamentals, Cisco packet tracer, cybersecurity labs, Ethical hacking, AI data modelling
 - Github projects: Hands-on labs and cyersecurity  projects
 
 ## Certification
